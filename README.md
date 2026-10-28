@@ -54,6 +54,6 @@ El análisis estático terminó sin incidencias y la app se instaló y ejecutó 
 ## GitHub
 
 - Repositorio público: [SoyPolar001/ClimaEnCasa](https://github.com/SoyPolar001/ClimaEnCasa).
-- La captura del estado GitHub Pro debe ser una captura auténtica de la cuenta. No se incluye una captura inventada.
-- El commit inicial se creó mediante Codex con la conexión autorizada de GitHub; la integración lo registra bajo la cuenta conectada. No cuenta como trabajo personal del estudiante.
+- Falta añadir una captura auténtica del estado de GitHub Pro o del Student Developer Pack; no se incluye una captura inventada.
+- Los commits publicados se prepararon mediante Codex con la conexión autorizada de GitHub y aparecen bajo la cuenta conectada. No cuentan como trabajo personal del estudiante.
 - Antes de entregar, el estudiante debe revisar el proyecto, añadir una contribución que pueda explicar y registrar sus propios cambios en Git.
