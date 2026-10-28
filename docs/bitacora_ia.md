@@ -43,7 +43,7 @@ El primer prompt es el mensaje original del estudiante. Los prompts 2–5 fueron
 
 **Respuesta de la IA:** Escribí instrucciones de ejecución, descripción de la API y declaración de uso de Codex. También dejé indicado que el estudiante debe completar una parte que realmente haya hecho sin IA.
 
-**¿Funcionó a la primera?** Sí. El README quedó listo; faltan el enlace del repositorio y la descripción verdadera del trabajo personal del estudiante.
+**¿Funcionó a la primera?** Sí. El README quedó listo y el repositorio ya está publicado. El estudiante aún debe escribir una contribución que haya realizado personalmente y pueda explicar.
 
 ## Error detectado y aprendizaje
 
@@ -51,4 +51,4 @@ El primer nombre de paquete sugerido no era válido. Lo corregí a clima_en_casa
 
 Aprendí que hay que revisar las instrucciones de Flutter y la respuesta de la API, no solo generar código. La próxima vez especificaré desde el inicio el nombre del paquete, los errores que debe manejar la app y qué datos quiero mostrar; después comprobaré tanto el análisis como la ejecución.
 
-> **Nota de honestidad:** los prompts 2–5 se redactaron y aplicaron con ayuda de IA por petición del estudiante; no son citas de conversaciones anteriores. El estudiante aún debe completar su contribución personal y los requisitos de GitHub.
+> **Nota de honestidad:** los prompts 2–5 se redactaron y aplicaron con ayuda de IA por petición del estudiante; no son citas de conversaciones anteriores. Los commits publicados se prepararon mediante Codex y aparecen bajo la cuenta conectada. El estudiante aún debe hacer una contribución propia, crear sus commits personales y añadir una captura auténtica de GitHub Pro o Student Developer Pack.
