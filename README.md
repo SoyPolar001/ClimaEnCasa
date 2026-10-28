@@ -53,7 +53,7 @@ El análisis estático terminó sin incidencias y la app se instaló y ejecutó 
 
 ## GitHub
 
-- Perfil de GitHub conectado: [SoyPolar001](https://github.com/SoyPolar001).
-- El repositorio de esta app aún debe publicarse. Añade su enlace cuando exista.
+- Repositorio público: [SoyPolar001/ClimaEnCasa](https://github.com/SoyPolar001/ClimaEnCasa).
 - La captura del estado GitHub Pro debe ser una captura auténtica de la cuenta. No se incluye una captura inventada.
-- El historial de commits debe reflejar cambios que el estudiante revise y haga propios. No se atribuyen a su cuenta commits creados por IA.
+- El commit inicial se creó mediante Codex con la conexión autorizada de GitHub; la integración lo registra bajo la cuenta conectada. No cuenta como trabajo personal del estudiante.
+- Antes de entregar, el estudiante debe revisar el proyecto, añadir una contribución que pueda explicar y registrar sus propios cambios en Git.
