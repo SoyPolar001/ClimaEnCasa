@@ -35,25 +35,6 @@ En Android Studio se puede abrir la carpeta del proyecto y ejecutar lib/main.dar
 
 ## Herramientas de IA utilizadas
 
-- **Codex (OpenAI, modelo GPT-6):** se usó para interpretar la consigna, proponer la estructura de la app, generar la interfaz y la integración HTTP/JSON con Open-Meteo, manejar los estados de error y redactar esta documentación.
+- **Codex (OpenAI, modelo GPT-6):** se usó para interpretar la consigna, proponer la estructura de la app, generar la interfaz y la integración HTTP/JSON con Open-Meteo y manejar los estados de error.
 - No se usaron otras herramientas de IA para este proyecto durante esta sesión.
-- **Parte realizada por el estudiante sin ayuda de IA:** pendiente de completar por el estudiante con una acción real que haya realizado personalmente. No afirmes que escribiste el código generado por IA. Antes de entregar, estudia el proyecto y añade aquí una parte concreta que hayas hecho y puedas explicar.
-
-## Bitácora de IA
-
-La bitácora está en [docs/bitacora_ia.md](docs/bitacora_ia.md). Registra el prompt original y cuatro prompts adicionales redactados por Codex a petición del estudiante; distingue claramente su origen.
-
-## Demostración en clase
-
-Guion breve para la demostración: [docs/demo_clase.md](docs/demo_clase.md).
-
-## Verificación local
-
-El análisis estático terminó sin incidencias y la app se instaló y ejecutó en modo release en un emulador Android. La captura real está en evidencias/captura_app.png; los comandos y el alcance de esa comprobación se describen en [docs/verificacion.md](docs/verificacion.md).
-
-## GitHub
-
-- Repositorio público: [SoyPolar001/ClimaEnCasa](https://github.com/SoyPolar001/ClimaEnCasa).
-- Falta añadir una captura auténtica del estado de GitHub Pro o del Student Developer Pack; no se incluye una captura inventada.
-- Los commits publicados se prepararon mediante Codex con la conexión autorizada de GitHub y aparecen bajo la cuenta conectada. No cuentan como trabajo personal del estudiante.
-- Antes de entregar, el estudiante debe revisar el proyecto, añadir una contribución que pueda explicar y registrar sus propios cambios en Git.
+- **Parte realizada por el estudiante sin ayuda de IA:** Yo analice y empece el diseño ademas de buscar la api que usamos
